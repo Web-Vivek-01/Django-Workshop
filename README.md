@@ -19,13 +19,13 @@ This project teaches you how to build a simple Django REST API with full CRUD fu
 "# LMS is the project name, whereas Courses is the app name."
 
 ---
-## 📬 API Endpoints & Embedded Screenshots
+## 📬 API Endpoints & Embedded Screenshots ( POSTMAN )
 
 ### 🔹 GET API – `http://127.0.0.1:8000/getAllUser`
 
 > ✅ Fetch all records
 
-<img src="images/get api.png" alt="GET API" width="800"/>
+<img src="images/ex - get api.png" alt="GET API" width="800"/>
 
 ---
 
@@ -33,7 +33,7 @@ This project teaches you how to build a simple Django REST API with full CRUD fu
 
 > ➕ Add a new record
 
-<img src="images/post api.png" alt="POST API" width="800"/>
+<img src="images/ex - post api.png" alt="POST API" width="800"/>
 
 ---
 
@@ -41,7 +41,7 @@ This project teaches you how to build a simple Django REST API with full CRUD fu
 
 > ✏️ Update existing record by Email ID
 
-<img src="images/put api.png" alt="PUT API" width="800"/>
+<img src="images/ex - put api.png" alt="PUT API" width="800"/>
 
 ---
 
@@ -49,7 +49,7 @@ This project teaches you how to build a simple Django REST API with full CRUD fu
 
 > ❌ Delete record using number in URL Add bar  
 
-<img src="images/delete api using email input.png" alt="DELETE API by number" width="800"/>
+<img src="images/ex - delete api (url).png" alt="DELETE API by number" width="800"/>
 
 ---
 
@@ -57,7 +57,7 @@ This project teaches you how to build a simple Django REST API with full CRUD fu
 
 > ❌ Delete record using email input in body
 
-<img src="images/delete api using email input.png" alt="DELETE API by Email" width="800"/>
+<img src="images/ex  - delete api using email input.png" alt="DELETE API by Email" width="800"/>
 
 ## ⚙️ Project Setup
 
