@@ -14,8 +14,8 @@
 
 ## 📚 Overview
 
-This project teaches you how to build a simple Django REST API with full CRUD functionality including deleting by email input!<br>
-"LMS is the project name, whereas Courses is the app name."
+This project teaches you how to build a simple Django REST API with full CRUD functionality including deleting by email input!
+<br><br>"LMS is the project name, whereas Courses is the app name."<br>
 <img src="images/LMS User.png" alt="Main LMS User" width="800"/>
 ---
 ## 📬 API Endpoints & Embedded Screenshots ( POSTMAN )
